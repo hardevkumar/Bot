@@ -1,0 +1,3 @@
+                       "IP":castelworld12
+                       "Port": 56613
+                       "Name":" Bot 
